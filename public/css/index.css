@@ -1,0 +1,22 @@
+
+
+
+p {
+    font-size: 1.3rem;
+    text-align: center;
+    padding-left: 11rem;
+    padding-right: 11rem;
+    transform: translateY(183%);
+}
+.box{
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    margin-top: 20px;
+    background: white;
+    color: black;
+    font-weight: 700;
+}
